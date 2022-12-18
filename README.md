@@ -378,6 +378,57 @@ WHERE DATETIME =  '22-10-18'
 Output:
 ![This_is_an_image](sql2.png)
 
+# Finally create a Web Page as an interaction between Database and Data
+
+```
+<html>
+ <head>
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="style.css">
+     <script src="https://kit.fontawesome.com/68d0bebe6d.js" crossorigin="anonymous"></script>
+     <title>
+         My HTML Web Page
+     </title>
+
+ </head>
+ <body background="flight.jpeg">
+     <div class="search-box">
+         <input class="search-txt" type="text" name="" placeholder="Type to search">
+         <a class="search-btn" href="#">
+            <i class="fas fa-search"> </i>
+
+         </a>
+     </div>
+     <div class="header">
+     <div class="header-logo"> Potsdam Flights </div>
+     <nav> 
+         <ul>
+
+             <li><a href="#">Home</a></li>
+             <li><a href="#"> Videos</a></li>
+             <li><a href="#"> Portfolio </a></li>
+             <li><a Href="#"> Blog</a></li>
+             </ul>
+             </nav>
+     </h2>
+     </div>
+     <br/><br/> <br/><br/> <br/><br/> 
+     <div class="text-color"
+     <h1 align="center">
+         <font face="Lato" color="#017bf5" size="7">
+       Type to Search about the flight
+        </font>
+     </h1>
+    </div>
+    
+
+ </body>
+ </html>
+ ```
+Output:
+![This is an image](webpage.png)
+
+
 
 theme: jekyll-theme-Cayman
 title: Siva's homepage
