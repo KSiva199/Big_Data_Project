@@ -430,7 +430,7 @@ Output:
 
 
 
-theme: jekyll-theme-Cayman
+
 title: Siva's homepage
 description: Bookmark this to keep an eye on my project updates!
 
