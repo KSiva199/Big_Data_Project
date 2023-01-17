@@ -1,5 +1,6 @@
 
 # Final Poject 
+<h1 align="left"> This project is based on a Json Data set, consisting of dictionaries of dictionaries, all the efforts are on Data Pre-processing, Data Cleaning, Data Analysis using Python and different libraries, Inserting data in a RDBMS and forming an interface between DB and User as an Web Application. </h1>
 
 
 ## Sample Data:
@@ -378,7 +379,7 @@ WHERE DATETIME =  '22-10-18'
 Output:
 ![This_is_an_image](sql2.png)
 
-# Finally create a Web Page as an interaction between Database and Data
+## Finally create a Web Page as an interface between Database and User
 
 ```
 <html>
